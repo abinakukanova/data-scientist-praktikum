@@ -11,5 +11,5 @@
 |[Линейные модели в машинном обучении](https://github.com/abinakukanova/data-scientist-praktikum/blob/main/linear_models_ml.ipynb)          |Прогнозирование возможного удоя коровы и вкуса молока с помощью линейных моделей машинного обучения             |`pandas` `scikit-learn` `plotly` `numpy` `scipy` `seaborn`  |    
 |[Обучение с учителем: качество модели](https://github.com/abinakukanova/data-scientist-praktikum/blob/main/supervised_machine_learning.ipynb)|Предсказание вероятности снижения покупательской активности клиента и разделение клиентов на сегменты| `pandas` `scikit-learn` `numpy` `seaborn` `matplotlib` `optuna` `shap`|
 |[Сборный проект №2: HR-аналитика](https://github.com/abinakukanova/data-scientist-praktikum/blob/main/hr_analytics.ipynb)|Предсказание уровня удовлетворенности работой и вероятности увольнения сотрудника из компании| `pandas` `scikit-learn` `numpy` `seaborn` `matplotlib` `optuna` `shap`|
-
+|[Машинное обучение в бизнесе]()|Предсказание объема запасов сырья в регионах для разработки новых нефтяных месторождений| `pandas` `scikit-learn` `numpy`|
 
